@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:"Noto Sans", serif;
+
+}
+body{
+    background-color: rgb(187, 97, 17);
+
+}
+.main-box{
+    height: 250px;
+max-width:330px;
+margin: auto;
+padding: 50px 40px;
+margin-top: 40px;
+background-color: black;
+border-radius: 40px;
+}
+span{
+    font-size: 55px;
+padding-left: 115px;
+
+}
+p{
+    color: grey;
+    margin-top: 15px;
+}
+button{
+    margin-top: 25px;
+    margin-left: 100px;
+    background: none;
+    border: none;
+    background-color: orange;
+    height: 30px;
+    width: 120px;
+    border-radius: 8px;
+    font-size: 15px;
+}
